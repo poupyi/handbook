@@ -20,3 +20,4 @@ things. We will keep improving ourselves and the company as well.
 * [You are MVP](https://github.com/MVPFastlane/handbook/blob/master/you-are-mvp.md)
 * [Unlimited Learning](https://github.com/MVPFastlane/handbook/blob/master/unlimited-learning.md)
 * [Benefits & Perks - Taiwan](https://github.com/MVPFastlane/handbook/blob/master/benefits-and-perks-taiwan-office.md)
+* [Must-Reads](https://github.com/MVPFastlane/handbook/blob/master/must-reads.md)
