@@ -1,8 +1,8 @@
 # MVP Employee Handbook
 
-This handbook articulates who we actually are as a company.
+This handbook articulates who we are as a company.
 What is our mission? What we stand for? How should we work to achieve our mission?
-We hope this handbook brings some clarity to the important questions above.
+This handbook brings some clarity to the important questions above.
 
 Our handbook is public and all revision history is version-controlled.
 Honesty is in our core values. 
