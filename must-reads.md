@@ -1,5 +1,6 @@
 # Must Reads
-Learning and level up is in our DNA.
+
+We love learning.
 
 This page lists the most influential books or web articles that we have found.
 You are what you read. All team members are expected to finish read these materials, 
