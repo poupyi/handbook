@@ -17,7 +17,7 @@ Everyone at the company is encouraged to constantly check this handbook, think a
 things. We will keep improving ourselves and the company as well.
 
 ## Sections
-* [You are MVP](https://github.com/MVPFastlane/handbook/blob/master/you-are-mvp.md)
+* [You Are MVP](https://github.com/MVPFastlane/handbook/blob/master/you-are-mvp.md)
 * [Unlimited Learning](https://github.com/MVPFastlane/handbook/blob/master/unlimited-learning.md)
 * [Benefits & Perks - Taiwan](https://github.com/MVPFastlane/handbook/blob/master/benefits-and-perks-taiwan-office.md)
 * [Must-Reads](https://github.com/MVPFastlane/handbook/blob/master/must-reads.md)
