@@ -22,7 +22,7 @@ MVPs always do our best to an extent that brings the best out of people close to
 
 MVPs will never be complacent and we always want to achieve higher goals that nobody had imagined possible before.
 
-MVPs believe in hard work. The harder you work, then luckier you get.
+MVPs believe in hard work. The harder you work the luckier you get.
 
 MVPs understand one's success is defined by the successes she helps others achieve.
 
