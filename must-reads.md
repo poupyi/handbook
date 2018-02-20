@@ -33,6 +33,10 @@ Please check back constantly and feel free to suggest new material in our Slack 
 
 - [Zero to One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/)
 
+### Self Development
+
+- [Compound Effect](https://www.amazon.com/Compound-Effect-Darren-Hardy/dp/159315724X/)
+
 
 ## Articles
 
