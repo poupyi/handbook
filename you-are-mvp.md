@@ -1,11 +1,16 @@
 # You Are MVP
 
 Everyone works at MVP Fastlane represents the Company. You are all MVPs.
+
 When Philip reply a technical question email to the client in a professional manner, Philip is an MVP.
-When Wanchen carefully examines the product spec and raises critical questions in a client meeting,
-Wanchen is an MVP. 
+When Wanchen carefully examines the product spec and raises critical questions in a client meeting, Wanchen is an MVP. 
+
 All other marketing materials is secondary, 
-our clients will only remember what we do in front of them when they need us to solve problems for them.
+our clients will only remember what we do in front of them when they need us most.
+
+So please carefully read and think about our core values. 
+Everything you do everyday is the primary marketing for the company.
+
 
 ## MVP Core Values
 
